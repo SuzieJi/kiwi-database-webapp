@@ -19,7 +19,7 @@ This is a full-stack web application built for managing and querying structured 
 
 ## 📽️ Project Demo
 
-[Watch demo video on YouTube][https://your-youtube-link.com](https://www.youtube.com/watch?v=FiVLSdAq-7Q))  
+[Watch demo video on YouTube](https://www.youtube.com/watch?v=FiVLSdAq-7Q)  
 
 ## 📂 Repository
 
