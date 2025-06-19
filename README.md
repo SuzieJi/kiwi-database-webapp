@@ -1,4 +1,15 @@
+# KIWI: SQL-Driven Web Application
 
+This is a full-stack web application built for managing and querying structured data using a SQL database backend. It was developed as a final project for the **Database & Information Systems (CIS 550)** course at the University of Pennsylvania.
+
+## 🔧 Features
+
+- Modular client-server architecture
+- SQL-backed data modeling and querying
+- Interactive front-end for data input and search
+- Persistent storage and custom query functionality
+
+## 📁 Project Structure
 ## 💻 Technologies Used
 
 - SQL
@@ -8,8 +19,7 @@
 
 ## 📽️ Project Demo
 
-[Watch demo video on YouTube](https://your-youtube-link.com)  
-*(Replace with actual video link)*
+[Watch demo video on YouTube]([https://your-youtube-link.com](https://www.youtube.com/watch?v=FiVLSdAq-7Q))  
 
 ## 📂 Repository
 
