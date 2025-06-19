@@ -1,0 +1,9 @@
+{
+  "rds_host": "kiwi.cn6oqcwiush2.us-east-2.rds.amazonaws.com",
+  "rds_port": "3306",
+  "rds_user": "kiwi",
+  "rds_password": "",
+  "rds_db": "KIWI",
+  "server_host": "localhost",
+  "server_port": "8080"
+}
